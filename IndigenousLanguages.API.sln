@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndigenousLanguages.API", "IndigenousLanguages.API.csproj", "{99328FB8-8768-4CD7-BCA5-3013D8B84BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99328FB8-8768-4CD7-BCA5-3013D8B84BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99328FB8-8768-4CD7-BCA5-3013D8B84BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99328FB8-8768-4CD7-BCA5-3013D8B84BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99328FB8-8768-4CD7-BCA5-3013D8B84BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {941A626D-6800-44F3-AD33-411AE0F81EFB}
+	EndGlobalSection
+EndGlobal
